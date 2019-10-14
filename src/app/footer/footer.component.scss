@@ -1,0 +1,17 @@
+.footer {
+    background-image: linear-gradient(to bottom right, #F68E5F, #EF629F);
+    position:fixed;
+    bottom:0;
+    width:100%;
+
+    p {
+        color: white;
+        text-align: center;
+        font-size: 1.2em;
+
+        span {
+            color: #F7FF00;
+            font-family: cursive;
+        }
+    }
+}
